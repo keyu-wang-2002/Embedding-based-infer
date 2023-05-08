@@ -15,8 +15,8 @@ We use open-source toolkit **OpenKE** here.  See for detailed instructions: http
 ### Steps to score the MCS
 
 - **data process:**  See in the folder **./OpenKE/dataProcess**.  We first get the triple forms of data using NaturalOWL. The triple forms of data are stored in the folder **./dataProcess/tsvData**. Then we run the code **./dataProcess/2OpenkeFormat.py** to get the required data for training.
-- **training :**  Take ontology UOBM-lite-10-35 and applying RESCAL as example. Directly run **train_rescal_UOBM35.py** .  Then UOBM-lite-10-35  is trained by RESCAL model, and the semantic vectors of axioms in UOBM-lite-10-35 ontology are stored in the folder **./embed/rescal_UOBM35_embed.vec**.
-- **scoring**: Take ontology UOBM-lite-10-35 and applying RESCAL as example. Directly run **score_rescal_UOBM35.py** , then we can get the score of each MCS of the ontology UOBM-lite-10-35. 
+- **training :**  Take ontology UOBM-lite-10-35 and applying TransE as example. Run **./exp_train/train_transe_UOBM35.py** .  Then UOBM-lite-10-35  is trained by TransE model, and the semantic vectors of axioms in UOBM-lite-10-35 ontology are stored in the folder **./embed/rescal_UOBM35_embed.vec**.
+- **scoring**: Take ontology UOBM-lite-10-35 and applying RESCAL as example. Directly run **./exp_score/score_rescal_UOBM35.py** , then we can get the score of each MCS of the ontology UOBM-lite-10-35. 
 
 
 
@@ -24,7 +24,7 @@ We use open-source toolkit **OpenKE** here.  See for detailed instructions: http
 
 The complete experiment codes are stored in the folder **./scoring_SentenceEmbedding/sentence-transformers**.
 
-We use open-source toolkit **sentence-transformers** here.   See for detailed instructions: https://github.com/UKPLab/sentence-transformers
+We use open-source toolkit **text2vec** here.   See for detailed instructions: (https://pypi.org/project/text2vec/)
 
 
 
