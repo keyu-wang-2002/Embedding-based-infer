@@ -1,0 +1,11 @@
+10
+is subclass of	0
+has domain in	1
+is an instance of	2
+supportd	3
+range in	4
+is supported by	5
+is inverse of	6
+has documentation in	7
+is subproperty of	8
+is supported	9

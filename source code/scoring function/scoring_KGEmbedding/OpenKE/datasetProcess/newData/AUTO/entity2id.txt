@@ -1,0 +1,408 @@
+407
+Iraq	0
+country	1
+ReviewForm	2
+ReviewQuestion	3
+AntennasTopic	4
+RadioCommunicationsTopic	5
+MobileComputingTopic	6
+CADTopic	7
+SignalProcessingTopic	8
+Place	9
+hasStreet	10
+xsd:string	11
+edasDocument	12
+ReviewRating	13
+ParallelAndDistributedComputingTopic	14
+SecurityTopic	15
+CzechRepublic	16
+defined_by	17
+Event_Setup	18
+hasCountry	19
+Country	20
+hasSubmissionInstructions	21
+Tunisia	22
+PowerlineTransmissionTopic	23
+WirelessCommunicationsTopic	24
+RatedPapers	25
+ActivePaper	26
+cocusPaper	27
+edasPaper	28
+ComputerNetworksManagementTopic	29
+ComputerNetworksSecurityTopic	30
+sent_by	31
+Activity	32
+edasConference	33
+Sponsorship	34
+hasReviewHistory	35
+isReviewHistoryOf	36
+belongsToEvent	37
+ConferenceEvent	38
+registred_by	39
+Account	40
+ComputerNetworksMeasurementsTopic	41
+Committe_Role	42
+Role	43
+cocusAuthor	44
+edasAuthor	45
+confirm	46
+Approval_Email	47
+OrganizationalMeeting	48
+AcademicEvent	49
+PerformanceTopic	50
+approved_by	51
+Administrator	52
+Botswana	53
+ConferenceChair	54
+hasFirstName	55
+edasPerson	56
+hasName	57
+what hasCountry of exactly one owl:Thing	58
+cocusWorkshop	59
+Event	60
+registrationDueOn	61
+xsd:dateTime	62
+CryptographyTopic	63
+relatedToPaper	64
+AcceptedPaper	65
+hasStartDateTime	66
+ComputerNetworksOpticalTopic	67
+Croatia	68
+Cyprus	69
+Morocco	70
+startDate	71
+BreakEvent	72
+CoffeeBreak or FreeTimeBreak or MealBreak	73
+Topic	74
+ContactInformation	75
+TalkEvent	76
+edasWorkshop	77
+cocusDocument	78
+Research_Topic	79
+ComputerNetworksEnterpriseTopic	80
+ComputerNetworksTopic	81
+Bulgaria	82
+CommunicationTheoryTopic	83
+MultimediaTopic	84
+Chile	85
+User	86
+who take_part_in some Event	87
+Author_Role	88
+ComputerNetworksSensorTopic	89
+OperatingTopicsystems	90
+SatelliteAndSpaceCommunicationsTopic	91
+modified_by	92
+cocusPerson	93
+Macao	94
+MedicineTopic	95
+TestOnlyTopic	96
+Abstract	97
+cocusConference	98
+get	99
+ConferenceSession	100
+India	101
+PendingPaper	102
+PublishedPaper	103
+ComputerNetworksSwitchingTopic	104
+MealMenu	105
+edasReview	106
+inverse_of_add	107
+cocusDocument or cocusPerson	108
+CommunicationsTopic	109
+Taiwan	110
+China	111
+hasCall	112
+Call	113
+submit	114
+Colombia	115
+who get some Inforamtion	116
+MicroelectronicsTopic	117
+modify	118
+Account or Detail	119
+PersonalPublicationHistory	120
+PersonalHistory	121
+AccommodationPlace	122
+Greece	123
+assigned_by	124
+SerbiaAndMontenegro	125
+Luxemburg	126
+ComputerArchitectureTopic	127
+initiates	128
+ConferenceChair or SessionChair or TPCMember	129
+Slovakia	130
+NonAcademicEvent	131
+Portugal	132
+hasBiography	133
+Iran	134
+ComputerNetworksAapplicationsTopic	135
+approve	136
+Organization	137
+paperDueOn	138
+hasLocation	139
+isLocationOf	140
+Reviewer_Role	141
+Presenter	142
+cocusReview	143
+EuropeanUnion	144
+hasEndDateTime	145
+submited__by	146
+NGO	147
+Oman	148
+SaudiArabia	149
+what has endDate of at most one rdfs:Literal	150
+Ukraine	151
+hasRelatedDocument	152
+AcademicEvent or edasConference or ConferenceSession or edasPerson	153
+RejectedPaper	154
+Turkmenistan	155
+Austria	156
+concerned	157
+Hungary	158
+attendeeAt	159
+hasAttendee	160
+Armenia	161
+Argentina	162
+what has registrationDueOn the date of at most one rdfs:Literal	163
+Egypt	164
+Philippines	165
+MealEvent	166
+Detail	167
+what is modified_by some cocusPerson	168
+Event_URL	169
+isReviewedBy	170
+Australia	171
+hasSubmissionDeadline	172
+relatesTo	173
+Kenya	174
+isInitiatedBy	175
+send	176
+Event_Approval	177
+what has_result of only Approval_Email	178
+hasEmail	179
+USA	180
+owl:Thing	181
+WithdrawnPaper	182
+Excursion	183
+SocialEvent	184
+PaperPresentation	185
+AcceptRating	186
+RejectRating	187
+SlideSet	188
+hasLastName	189
+assign	190
+Iceland	191
+ClosingTalk	192
+WelcomeTalk	193
+edasPerson and who hasRelatedDocument of some edasPaper	194
+Lithuania	195
+Norway	196
+Tanzania	197
+Belgium	198
+ConferenceChair or Reviewer or SessionChair or TPCMember	199
+Paper_Typologies	200
+NewZealand	201
+who execute only Admin_Role	202
+who execute some Event_Creation	203
+recieved_by	204
+isReviewing	205
+CoffeeBreak	206
+define	207
+providedBy	208
+GovernmentOrganization	209
+hasMember	210
+Reception	211
+has_result	212
+cocusDocument or Event	213
+hasProgramme	214
+hasPhone	215
+conists_of	216
+Event_Tracks	217
+Vietnam	218
+add	219
+added_by	220
+register	221
+Registration	222
+execute	223
+Activity or Role	224
+hasCity	225
+CallForPapers	226
+Programme	227
+Preview	228
+Review_Form	229
+hasCostAmount	230
+Admin_Role	231
+Sweden	232
+Belarus	233
+Paraguay	234
+used_by	235
+Singapore	236
+Notification_Email	237
+Email	238
+AcademiaOrganization	239
+Senegal	240
+endDate	241
+PuertoRico	242
+create	243
+created_by	244
+MealBreak	245
+Template	246
+Indonesia	247
+manuscriptDueOn	248
+AccpetIfRoomRating	249
+Event_Creation	250
+UAE	251
+what is submited__by some Corresponding_Author	252
+Help_Request	253
+Request	254
+Cuba	255
+Lebanon	256
+relatedToEvent	257
+ConferenceVenuePlace	258
+hasMenu	259
+BosniaAndHerzegovina	260
+isMemberOf	261
+Syria	262
+Group_Email	263
+hasTopic	264
+isTopicOf	265
+PersonalReviewHistory	266
+Macedonia	267
+who approve some Event	268
+CallForReviews	269
+Reviewer	270
+what is used_by some cocusPerson	271
+Latvia	272
+Mongolia	273
+recieve	274
+HongKong	275
+Inforamtion	276
+SriLanka	277
+Peru	278
+UnitedKingdom	279
+CallForManuscripts	280
+SessionChair	281
+Feature_Request	282
+what has paperDueOn the date of at most one rdfs:Literal	283
+Email_Template	284
+Romania	285
+what has startDate of at most one rdfs:Literal	286
+Mexico	287
+use	288
+Italy	289
+TwoLevelConference	290
+edasConference and what hasMember of some TPCMember and what hasMember of only edasPerson	291
+Kuwait	292
+hasRating	293
+edasConference or edasPaper	294
+Turkey	295
+Switzerland	296
+Cambodia	297
+what is created_by some cocusPerson	298
+TextualReviewQuestion	299
+IndustryOrganization	300
+Mauritius	301
+Attendee	302
+Malta	303
+who execute some Role and who register some Account	304
+isWrittenBy	305
+Nepal	306
+what is recieved_by some cocusPerson	307
+removed_by	308
+Bahamas	309
+Slovenia	310
+confirmed_by	311
+Review_Form_Setup	312
+WeekRejectRating	313
+what hasName of exactly one rdfs:Literal	314
+Tajikistan	315
+Uruguay	316
+Rejection_Email	317
+TravelGrant	318
+Ecuador	319
+forEvent	320
+Spain	321
+isMenuOf	322
+Qatar	323
+take_part_in	324
+Full_Paper	325
+hasCostCurrency	326
+Bahrain	327
+Denmark	328
+who remove some cocusAuthor	329
+what has_result of some User	330
+France	331
+Nicaragua	332
+SouthAfrica	333
+NumericalReviewQuestion	334
+hasPostalCode	335
+Israel	336
+remove	337
+Brazil	338
+what define some Event	339
+what is assigned_by some Administrator	340
+NorthKorea	341
+Committee	342
+Libya	343
+isProviderOf	344
+Ethiopia	345
+Uganda	346
+Venezuela	347
+Ghana	348
+SingleLevelConference	349
+edasConference and not TwoLevelConference and what hasMember of only edasPerson	350
+Thailand	351
+Assistance	352
+Bangladesh	353
+ComputerNetworksMeasurements Topic	354
+SanMarino	355
+what is confirmed_by some Approval_Email	356
+xsd:int	357
+who recieve some Approval_Email or Rejection_Email	358
+hasRelatedPaper	359
+DiningPlace	360
+Corresponding_Author	361
+Nigeria	362
+Head_Role	363
+Germany	364
+who execute some Event_Approval	365
+Submission	366
+who add some cocusAuthor	367
+Korea	368
+Yemen	369
+Malaysia	370
+Invited_Paper	371
+what hasRating of some ReviewRating	372
+Madagascar	373
+TPCMember	374
+ConferenceDinner	375
+Jordan	376
+what hasTopic of exactly one owl:Thing	377
+Canada	378
+Finland	379
+what has_result of some Event	380
+Estonia	381
+Misc	382
+Netherlands	383
+Ireland	384
+FreeTimeBreak	385
+Russia	386
+DemocraticRepublicOfCongo	387
+Submission_Template	388
+who send some Help_Request	389
+Azerbaijan	390
+ContactInformation or edasPerson	391
+ParallelAndDistributedComputing Topic	392
+CocosIslands	393
+Zimbabwe	394
+Symposium	395
+MeetingRoomPlace	396
+edasPerson and who isReviewing some edasPaper	397
+Poland	398
+AcceptRating or AccpetIfRoomRating or RejectRating or WeekRejectRating	399
+Short_Paper	400
+Pakistan	401
+Georgia	402
+Person	403
+what has manuscriptDueOn the date of at most one rdfs:Literal	404
+Japan	405
+what is conists_of some Event_Tracks	406

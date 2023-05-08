@@ -1,0 +1,507 @@
+506
+aOntology	0
+what has status of only xsd:string	1
+usesOntology	2
+Project	3
+OntologyEngineeringTool	4
+what has description of only xsd:string	5
+GeneralPublicLicense_GPL	6
+LicenseModel	7
+ViewGenerationEngine	8
+what has acronym of at most one rdfs:Literal	9
+numberOfAxioms	10
+Jena-ARQ	11
+view definition language ARQ-Language	12
+OntologyType	13
+what is definedBy of only Party	14
+One_to_one_mapping	15
+rdfs:Resource	16
+ViewDefinitionLanguage	17
+what has acronym of only xsd:string	18
+what isVersionOfVirtualOntology of exactly one owl:Thing	19
+hasCreator	20
+context	21
+rdfs:Literal	22
+isManual	23
+xsd:boolean	24
+Location	25
+what has city of at most one rdfs:Literal	26
+VirtualView	27
+VirtualOntology	28
+what has numberOfClasses of exactly one rdfs:Literal	29
+virtualViewOf	30
+version	31
+xsd:string	32
+what isOfType of only OntologyType	33
+Organisation	34
+what has name of exactly one rdfs:Literal	35
+what has URI of exactly one rdfs:Literal	36
+OntologyEngineeringMethodology	37
+Mapping_Metadata	38
+developedBy	39
+OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax	40
+classesWithNoAuthor	41
+viewDefinition	42
+view definition language  RDQL	43
+owl:Thing	44
+Protege-Frames	45
+OntologyLanguage	46
+what isConsistentAccordingToReasoner of only xsd:boolean	47
+what has acronym of exactly one rdfs:Literal	48
+Individual_Added	49
+Individual_Change	50
+maximumNumberOfSiblings	51
+xsd:int	52
+Subclass_Added	53
+Class_Change	54
+Ontology_Component	55
+AnnotatableThing	56
+AcademicFreeLicense_AFL	57
+what has creationDate of exactly one rdfs:Literal	58
+propertyWithUniqueValue	59
+OntologyDomain	60
+what has oboFoundryName of at most one rdfs:Literal	61
+SPARQL	62
+view generation engine Jena-ARQ	63
+what has creationDate of only xsd:string	64
+oboFoundryID	65
+what is specifiedBy of only Party	66
+Authority_Manual	67
+Authority	68
+view generation engine Pellet	69
+averageNumberOfSiblings	70
+what is administeredBy of at least one owl:Thing	71
+what has documentation of only xsd:string	72
+what hasContactEmail of at most one rdfs:Literal	73
+numberOfClasses	74
+xsd:integer	75
+containsTBox	76
+Superclass_Removed	77
+Superclass_Added	78
+Ontology_Property	79
+AnnotationTask	80
+OntologyTask	81
+what has description of at most one rdfs:Literal	82
+what has numberOfClasses of only xsd:integer	83
+supportsRepresentationParadigm	84
+KnowledgeRepresentationParadigm	85
+createsOntology	86
+Party	87
+Person	88
+what has eMail of only xsd:string	89
+Verification	90
+Maximum_Cardinality	91
+Property_Change	92
+SearchTask	93
+what developesOntologyLanguage of only OntologyLanguage	94
+Timestamp	95
+specifiesLicense	96
+what hasContactName of at most one rdfs:Literal	97
+currentName	98
+authorProperty	99
+useImports	100
+designedForOntologyTask	101
+supportedByViewGenerationEngine	102
+supportsViewDefinitionLanguage	103
+BioPortalUserRole	104
+Ontology_Class	105
+hasOntologyLanguage	106
+changes_Slot_1	107
+textualReview	108
+isLocatedAt	109
+what hasLicense of at most one owl:Thing	110
+what has id of exactly one rdfs:Literal	111
+LesserGeneralPublicLicense_LGPL	112
+verified	113
+what is developedBy of only Party	114
+ARQ-Language	115
+action	116
+what hasFormalityLevel of only FormalityLevel	117
+isVersionOfVirtualOntology	118
+what has usedOntologyEngineeringMethodology of only OntologyEngineeringMethodology	119
+MediationTask	120
+hasOntologySyntax	121
+OntologySyntax	122
+resourceLocator	123
+what containsRBox of at most one rdfs:Literal	124
+name	125
+FormalityLevel or KnowledgeRepresentationParadigm or LicenseModel or OntologyDomain or OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax or OntologyTask or OntologyType or Organisation or aOntology	126
+what has name of only xsd:string	127
+documentationProperty	128
+Subclass_Removed	129
+TaskOntology	130
+reviewOnDimension	131
+Review	132
+statusID	133
+what isRemote of exactly one rdfs:Literal	134
+Pellet	135
+"http://clarkparsia.com/pellet"^^xsd:string	136
+definesOntologyType	137
+verified_on	138
+phoneNumber	139
+dependency	140
+FormalityLevel	141
+PersonalizationTask	142
+usedOntologyEngineeringMethodology	143
+ModifiedBSDLicense_mBSD	144
+Minimum_Cardinality	145
+application_Context	146
+what has timestampCreation of exactly one rdfs:Literal	147
+what has firstName of only xsd:string	148
+Property_Created	149
+what hasLicense of only LicenseModel	150
+urlPublications	151
+Maximum_Value	152
+Virtuoso	153
+"http://virtuoso.openlinksw.com/wiki/main/Main"^^xsd:string	154
+Subproperty_Added	155
+virtualURI	156
+RDQL	157
+view generation engine RedLand-Rasqal	158
+sequence	159
+RQL	160
+"http://139.91.183.30:9090/RDF/RQL/"^^xsd:string	161
+codingScheme	162
+AgreeDisagreeVote	163
+Vote	164
+administeredBy	165
+aOntology or Project	166
+viewDefinitionLanguage	167
+OntologyView	168
+Property_Value	169
+developesOntologyEngineeringTool	170
+what has documentation of at most one rdfs:Literal	171
+hasVirtualView	172
+street	173
+containsABox	174
+MatchingTask	175
+Created_Change	176
+hasFormalityLevel	177
+what containsTBox of at most one rdfs:Literal	178
+what has firstName of exactly one rdfs:Literal	179
+modified	180
+isViewOnOntologyVersion	181
+institution	182
+OBO_Foundry	183
+hasAffiliatedParty	184
+belongsToGroup	185
+"http://www.w3.org/Submission/2004/SUBM-RDQL-20040109/"^^xsd:string	186
+FilteringTask	187
+eMail	188
+notes	189
+confidence	190
+RVL	191
+what developesOntologyEngineeringMethodology of only OntologyEngineeringMethodology	192
+classesWithNoDocumentation	193
+what hasDomain of only OntologyDomain	194
+hasView	195
+Individual_Removed	196
+what hasOntologyLanguage of only OntologyLanguage	197
+submittedBy	198
+view definition language  vSPARQL	199
+applyTo	200
+what has description of exactly one rdfs:Literal	201
+BioPortalUser	202
+what has password of at most one rdfs:Literal	203
+what has filePath of exactly one rdfs:Literal	204
+what has statusID of exactly one rdfs:Literal	205
+Annotation_Change	206
+what has keywords of only xsd:string	207
+hasVersion	208
+RedLand-Rasqal	209
+URI	210
+OntologyDomain or aOntology	211
+OntologyGroup	212
+what has description that has value from "string"^^xsd:string	213
+Individual_Deleted	214
+Deleted_Change	215
+what has numberOfIndividuals of exactly one rdfs:Literal	216
+Property_Deleted	217
+isOfType	218
+Class_Created	219
+Superproperty_Removed	220
+what contributesToOntology of only aOntology	221
+what hasFormalityLevel of at most one owl:Thing	222
+Superproperty_Added	223
+Protege	224
+what has phoneNumber of only xsd:string	225
+what has URI of only xsd:string	226
+definedBy	227
+oboFoundryName	228
+Proposal	229
+Annotation	230
+what has country of at most one rdfs:Literal	231
+description	232
+FormalityLevel or KnowledgeRepresentationParadigm or LicenseModel or OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax or OntologyTask or OntologyType or aOntology or Project	233
+hasContributor	234
+what has internalVersionNumber of exactly one rdfs:Literal	235
+RDF-XML	236
+CoreOntology	237
+what hasPriorVersion of at most one owl:Thing	238
+developesOntologyLanguage	239
+what has lastName of exactly one rdfs:Literal	240
+what developesOntologyEngineeringTool of only OntologyEngineeringTool	241
+ViewDefinitionLanguage or ViewGenerationEngine	242
+fileNames	243
+"http://jena.sourceforge.net/"^^xsd:string	244
+Schema	245
+classesWithSingleSubclass	246
+hasSyntax	247
+algorithm_name	248
+what has state of at most one rdfs:Literal	249
+changes_Slot_0	250
+documentation	251
+KnowledgeRepresentationParadigm or LicenseModel or OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax or OntologyTask or OntologyType or aOntology or ViewDefinitionLanguage or ViewGenerationEngine	252
+containsOntology	253
+Subproperty_Removed	254
+created	255
+view definition language  SPARQL	256
+Terminology	257
+what useImports of only aOntology	258
+what has name that has value from "string"^^xsd:string	259
+what hasAffiliatedParty of only Party	260
+expressiveness	261
+qualityOfContentReview	262
+keywords	263
+contributesToOntology	264
+what has numberOfProperties of only xsd:integer	265
+what isConsistentAccordingToReasoner of at most one rdfs:Literal	266
+what definesOntologyType of only OntologyType	267
+FiveStarsVote	268
+CommonPublicLicense_CPL	269
+what has state of only xsd:string	270
+preferredNameProperty	271
+DomainOntology	272
+Sesame-SPARQL_Engine	273
+authority	274
+DirectType_Removed	275
+rating	276
+degreeOfFormalityReview	277
+usedOntologyEngineeringTool	278
+newName	279
+DAML-OIL	280
+caBIG	281
+what has version of exactly one rdfs:Literal	282
+QueryFormulationTask	283
+Authority_Algorithm	284
+what has street of at most one rdfs:Literal	285
+hasContactEmail	286
+TemplateSlot_Added	287
+timestampCreation	288
+aOntology or BioPortalUser	289
+ApplicationOntology	290
+preferredMaximumSubclassLimit	291
+isRemote	292
+Class_Deleted	293
+VotingProposal	294
+viewGenerationEngine	295
+administers	296
+relation	297
+specifiesKnowledgeRepresentationParadigm	298
+naturalLanguage	299
+"http://librdf.org/rasqal/"^^xsd:string	300
+endorsedBy	301
+what developesOntologySyntax of only OntologySyntax	302
+what isOfType of exactly one owl:Thing	303
+numberOfProperties	304
+id	305
+OntologyDomain or aOntology or BioPortalUser or BioPortalUserRole or OntologyGroup or VirtualOntology	306
+component_name	307
+classesWithMoreThanOnePropertyValueForPropertyWithUniqueValue	308
+currentVersion	309
+urlHomepage	310
+aOntology or OntologyGroup	311
+what hasOntologySyntax of exactly one owl:Thing	312
+LexGrid-XML	313
+containsRBox	314
+domainCoverageReview	315
+maximumDepth	316
+what containsRBox of only xsd:boolean	317
+Annotation_Added	318
+specifiedBy	319
+Annotation_Removed	320
+what containsABox of only xsd:boolean	321
+what has preferredNameProperty of at most one rdfs:Literal	322
+firstName	323
+annotates	324
+internalVersionNumber	325
+isFoundry	326
+EvaluationDimension	327
+AgreeDisagreeVoteProposal	328
+Change	329
+what has codingScheme of at most one rdfs:Literal	330
+what createsOntology of only aOntology	331
+what has username of exactly one rdfs:Literal	332
+xsd:dateTime	333
+what hasCreator of at least one owl:Thing	334
+what has numberOfAxioms of only xsd:integer	335
+vSPARQL	336
+view generation engine Virtuoso	337
+password	338
+lastName	339
+hasLicense	340
+developesOntologyEngineeringMethodology	341
+what has knownUsage of only xsd:string	342
+what isManual of exactly one rdfs:Literal	343
+country	344
+KnowledgeRepresentationParadigm or LicenseModel or OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax or OntologyTask or OntologyType or aOntology	345
+OWL-DL	346
+Documentation_Removed	347
+what specifiesKnowledgeRepresentationParadigm of only KnowledgeRepresentationParadigm	348
+timestamp	349
+targetTerminologies	350
+Example	351
+knownUsage	352
+acronym	353
+KnowledgeRepresentationParadigm or LicenseModel or OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax or OntologyTask or OntologyType or Organisation or aOntology or ViewDefinitionLanguage or ViewGenerationEngine	354
+isContactPerson	355
+OWL	356
+DisjointClass_Added	357
+correctnessReview	358
+developesOntologySyntax	359
+OWL-XML	360
+what has city of only xsd:string	361
+date	362
+component_type	363
+IndexingTask	364
+aOntology or ViewDefinitionLanguage or ViewGenerationEngine	365
+Name_Changed	366
+author	367
+source	368
+Ontology_Component or rdfs:Resource	369
+OWL-Full	370
+ConfigurationTask	371
+what has numberOfProperties of exactly one rdfs:Literal	372
+changes	373
+what hasContactPerson of only Person	374
+what has usedKnowledgeRepresentationParadigm of only KnowledgeRepresentationParadigm	375
+what hasCreator of only Party	376
+IBMPublicLicenseIBM_PL	377
+deletionName	378
+what has resourceLocator of exactly one rdfs:Literal	379
+state	380
+username	381
+Thesaurus	382
+SimpleProposal	383
+what containsABox of at most one rdfs:Literal	384
+comment	385
+annotatesByVirtualID	386
+title	387
+Documentation_Added	388
+what is endorsedBy of only Party	389
+hasPriorVersion	390
+documentationAndSupportReview	391
+status	392
+UpperLevelOntology	393
+KnowledgeRepresentationParadigm or LicenseModel or OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax or OntologyTask or OntologyType or Organisation or aOntology	394
+faxNumber	395
+Individual_Created	396
+what has notes of at most one rdfs:Literal	397
+city	398
+usedKnowledgeRepresentationParadigm	399
+what hasPriorVersion of only aOntology	400
+body	401
+what has modificationDate of only xsd:string	402
+RRF	403
+classesWithMoreThanXSubclasses	404
+DirectType_Added	405
+hasContactPerson	406
+oldName	407
+Advice	408
+isSubDomainOf	409
+synonymProperty	410
+OWL-Lite	411
+what hasOntologySyntax of only OntologySyntax	412
+Composite_Change	413
+Annotation_Modified	414
+what isIncompatibleWith of only aOntology	415
+DomainProperty_Added	416
+what has keyClasses of only xsd:string	417
+Vocabulary	418
+RDF-S	419
+filePath	420
+what has street of only xsd:string	421
+TemplateSlot_Removed	422
+DomainProperty_Removed	423
+hasDomain	424
+isBackwardCompatibleWith	425
+OBOEdit	426
+what has resourceLocator of only xsd:string	427
+OBO	428
+hasRoles	429
+creationName	430
+what has notes of only xsd:string	431
+Explanation	432
+"http://jena.sourceforge.net/ARQ/"^^xsd:string	433
+OpenSoftwareLicense_OSL	434
+associatedAnnotations	435
+verified_by	436
+what containsTBox of only xsd:boolean	437
+DAG	438
+what has acronym value "string"^^xsd:string	439
+hasContactName	440
+what hasContributor of only Party	441
+ManualViewDefinitionLanguage	442
+isIncompatibleWith	443
+what isSubDomainOf of only OntologyDomain	444
+partOfCompositeChange	445
+SeeAlso	446
+what has numberOfIndividuals of only xsd:integer	447
+creationDate	448
+what has version of only xsd:string	449
+voteValue	450
+subject	451
+keyClasses	452
+"http://www.w3.org/TR/rdf-sparql-query/"^^xsd:string	453
+subChanges	454
+numberOfIndividuals	455
+mapping_metadata	456
+"http://www.ics.forth.gr/isl/publications/paperlink/iswc03.pdf"^^xsd:string	457
+usabilityReview	458
+what has expressiveness of only xsd:string	459
+externalReferences	460
+what hasSyntax of only OntologySyntax	461
+Frames	462
+INTELOpenSourceLicenseINTEL_OSL	463
+what has name of at least one rdfs:Literal	464
+KnowledgeRepresentationParadigm or LicenseModel	465
+what has expressiveness of at most one rdfs:Literal	466
+what has eMail of at least one rdfs:Literal	467
+what isBackwardCompatibleWith of only aOntology	468
+what has lastName of only xsd:string	469
+Comment	470
+modificationDate	471
+what has usedOntologyEngineeringTool of only OntologyEngineeringTool	472
+what has status of at most one rdfs:Literal	473
+what has oboFoundryID of at most one rdfs:Literal	474
+what supportsRepresentationParadigm of only KnowledgeRepresentationParadigm	475
+FormalityLevel or KnowledgeRepresentationParadigm or LicenseModel or OntologyEngineeringMethodology or OntologyEngineeringTool or OntologyLanguage or OntologySyntax or OntologyTask or OntologyType or aOntology	476
+Minimum_Value	477
+what has designedForOntologyTask of only OntologyTask	478
+associatedProperty	479
+what has synonymProperty of at most one rdfs:Literal	480
+"http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/VOSSPARQL"^^xsd:string	481
+component_source	482
+isConsistentAccordingToReasoner	483
+Question	484
+target	485
+ApplePublicSourceLicense_APSL	486
+what has naturalLanguage of only xsd:string	487
+what has numberOfAxioms of exactly one rdfs:Literal	488
+what isFoundry of exactly one rdfs:Literal	489
+what has faxNumber of only xsd:string	490
+by view generation engine Virtuoso	491
+Taxonomy	492
+what has country of only xsd:string	493
+what isLocatedAt of only Location	494
+inverse_of_annotates	495
+what specifiesLicense of only LicenseModel	496
+DescriptionLogics	497
+bOntology	498
+what isContactPerson of only Organisation	499
+what has modificationDate of at most one rdfs:Literal	500
+FiveStarsVoteProposal	501
+QueryRewritingTask	502
+related	503
+view generation engine Sesame-SPARQL_Engine	504
+Ontology_Individual	505

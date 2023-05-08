@@ -1,0 +1,8 @@
+7
+is an instance of	0
+disjoint with	1
+range in	2
+is subclass of	3
+is equivalent to	4
+has domain in	5
+is inverse of	6

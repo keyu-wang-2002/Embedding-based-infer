@@ -1,0 +1,47 @@
+===============================================
+			Accepted queries：
+Jena_ARQ Type ViewGenerationEngine
+Jena-ARQ supportsViewDefinitionLanguage SPARQL
+Jena-ARQ supportsViewDefinitionLanguage RDQL
+Jena-ARQ supportsViewDefinitionLanguage ARQ-Language
+SPARQL supportedByViewGenerationEngine Jena-ARQ
+SPARQL supportedByViewGenerationEngine Virtuoso
+SPARQL supportedByViewGenerationEngine Sesame-SPARQL_Engine
+SPARQL supportedByViewGenerationEngine RedLand-Rasqal
+SPARQL  supportedByViewGenerationEngine Pellet
+RedLand-Rasqal supportsViewDefinitionLanguage SPARQL
+RedLand-Rasqal supportsViewDefinitionLanguage RDQL
+Virtuoso supportsViewDefinitionLanguage vSPARQL
+Virtuoso supportsViewDefinitionLanguage SPARQL
+RDQL supportedByViewGenerationEngine RedLand-Rasqal
+ARQ-Language supportedByViewGenerationEngine Jena-ARQ
+RDQL supportedByViewGenerationEngine Jena-ARQ
+vSPARQL supportedByViewGenerationEngine Virtuoso
+Pellet supportsViewDefinitionLanguage SPARQL
+Sesame-SPARQL_Engine supportsViewDefinitionLanguage SPARQL
+（1）OntologyEngineeringTool SubClassOf documentation max 1 rdfs:Literal
+（2）Ontology SubClassOf documentation max 1 rdfs:Literal
+（3）OntologyType SubClassOf documentation max 1 rdfs:Literal
+（4）KnowledgeRepresentationParadigm SubClassOf documentation max 1 rdfs:Literal
+（6）OntologyTask SubClassOf documentation max 1 rdfs:Literal
+（7）OntologyEngineeringMethodology SubClassOf documentation max 1 rdfs:Literal
+（8）OntologyLanguage SubClassOf documentation max 1 rdfs:Literal
+（9）OntologySyntax SubClassOf documentation max 1 rdfs:Literal
+（11）LicenseModel SubClassOf documentation max 1 rdfs:Literal
+Jena_ARQ Type FormalityLevel(10)
+Virtuoso Type Organisation(10)
+===============================================
+			Rejected queries:
+Jena_ARQ OntologyLanguage
+Jena_ARQ LicenseModel
+Jena_ARQ OntologyTask
+Jena_ARQ KnowledgeRepresentationParadigm
+Virtuoso Type OntologyLanguage
+Virtuoso Type LicenseModel
+Virtuoso Type OntologyTask
+Virtuoso Type KnowledgeRepresentationParadigm
+================================================
+			Undetermined queries:
+Jena_ARQ Type Ontology(11)
+Jena_ARQ Type Organisation(10)
+Virtuoso Type Ontology(11)

@@ -1,0 +1,13 @@
+12
+is subclass of	0
+is equivalent to	1
+is an instance of	2
+has domain in	3
+is taught by	4
+range in	5
+is subproperty of	6
+is different from	7
+is inverse of	8
+is head of	9
+	10
+has characteristic of	11
