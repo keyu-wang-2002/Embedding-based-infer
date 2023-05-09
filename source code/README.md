@@ -6,7 +6,7 @@
 
 - MCS generator
 - MIS generator
-- NaturalOWL tool
+- NaturalOWL tool / TripleOWL tool
 - Scoring function
 
 
