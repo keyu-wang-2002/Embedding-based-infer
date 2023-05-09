@@ -15,7 +15,7 @@
 
 **MIS generator** is used to generate the minimal inconsistent subsets of inconsistent ontology.
 
-**NaturalOWL tool** is used to translate axioms into natural language sentence forms.
+**NaturalOWL tool** is used to translate axioms into natural language sentence forms. / **TripleOWL tool** is used to translate axioms into triple forms.
 
 **scoring function** is used to score the maximal consistent subsets using methods defined in our paper.
 
