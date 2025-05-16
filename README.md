@@ -1,4 +1,4 @@
-# Embedding-based-infer
+# Embedding-based-inconsistent-ontology-reasoning
 Data, code and technical report of the paper: An Embedding-based Approach to Inconsistency-tolerant Reasoning with Inconsistent Ontologies
 
 The codebase includes **MCS generator** (in Java), **NaturalOWL** (in java), **TripleOWL** (in Java) and **scoring functions** (in python/pytorch). See in corresponding folders for detailed instructions.
